@@ -1,0 +1,13 @@
+title: Din blog
+author: Din
+description: My blog. Forked from Jekyll theme 'brume'
+
+highlighter: null
+permalink: /:title
+
+url:
+baseurl:
+
+# Custom options:
+# color_scheme: azul|ruby|amber|avocado
+# color_scheme: avocado
